@@ -10,6 +10,7 @@ all integers in the range L ≤ i < U separated by spaces. Notice that we includ
 the lower limit, but exclude the upper limit.
 */
 #include <iostream>
+#include "funcs.h"
 using namespace std;
 
 void print_interval(int L, int U) {

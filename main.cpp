@@ -12,9 +12,8 @@ the lower limit, but exclude the upper limit.
 */
 
 #include <iostream>
+#include "funcs.h"
 using namespace std;
-
-void print_interval(int, int);
 
 int main() {
   print_interval(-5, 10);
